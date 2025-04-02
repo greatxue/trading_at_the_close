@@ -1,4 +1,4 @@
-# README
+# Optiver: Trading at the Close - Silver Medal Solution
 
 Win at the Close: 81/4436
 
